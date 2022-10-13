@@ -1,0 +1,22 @@
+Variable: Una variable es un contenedor que utilizamos para guardar valores, estos valores pueden contener
+distintos tipos de datos.
+
+String: Son un tipo de dato que utilizamos para almacenar texto, estos deben ser definidos entre comillas
+simples o dobles.
+
+Funciones: Son bloques de código que nos permiten hacer distintos tipos de operaciones, estas pueden tener
+
+Argumentos: Son variables que les pasamos a las funciones, estas variables las usamos para recibir valores
+de entrada.
+
+Return: Esta instrucción detiene la ejecución de un bloque de código, y devuelve algún valor cuando llamamos
+a la función.
+
+Declaraciones if: Nos permite ejecutar alguna instrucción, siempre y cuando esta sea verdadera.
+
+Valores Booleanos (true, false): Este tipo de datos puede representar dos valores, true o false 
+(Verdadero 1 /Falso 0).
+
+
+
+
