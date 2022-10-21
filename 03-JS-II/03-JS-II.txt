@@ -1,0 +1,9 @@
+for: Esta sentencia crea un bucle (loop) que consiste de tres expresiones las cuales van encerradas entre
+     paréntesis, separadas por punto y coma y seguida por una sentencia de bloque que se ejecutará
+     el el bucle.
+
+&&: Operador Lógico AND, retorna true si ambos operandos son verdaderos y false si uno o ambos son falsos.
+
+||: Operador Lógico OR, retorna true si uno o ambos operandos son true y false si ambos son falsos.
+
+!:  Operador Lógico NOT: retorna el valor booleano  opuesto al valor que se le pase 
